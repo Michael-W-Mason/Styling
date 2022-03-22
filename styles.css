@@ -1,0 +1,29 @@
+.header1{
+    background-color: black;
+    font-size: 50px;
+    text-align: left;
+    font-family: sans-serif;
+}
+#logo{
+    color: whitesmoke;
+}
+.header1 #logo .cloud{
+    color: aqua;
+}
+
+.header2{
+    background-color: blueviolet;
+    color: whitesmoke;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.header3{
+    text-align: right;
+    background-color: lightblue;
+    color: black;
+    text-decoration: underline;
+    font-size: 30px;
+}
